@@ -1,7 +1,7 @@
 {
 	"name": "Super Toko Core",
 	"version": "1.0.0",
-	"download_url": "#",
+	"download_url": "https://github.com/razaqultegar/update-plugin/blob/master/plugins/supertoko-core.zip",
 	"homepage": "https://razaqultegar.com/",
 	"requires": "5.0",
 	"tested": "5.0",

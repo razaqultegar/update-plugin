@@ -12,7 +12,7 @@
 	"sections": {
 		"description": "A plugin required to activate the functionality in the Super Toko themes.",
 		"installation": "Installation instructions.",
-		"changelog": "<h4>1.1.0 2019-30-01</h4><ul><li>Add Payment Gateway Icon.</li><li>Fix Elementor Widgets.</li></ul><h4>1.0.0 2019-12-12</h4><ul><li>Initial release.</li></ul>"
+		"changelog": "<h4>1.1.0 – 2019-30-01</h4><ul><li>Add Payment Gateway Icon.</li><li>Fix Elementor Widgets.</li></ul><h4>1.0.0 – 2019-12-12</h4><ul><li>Initial release.</li></ul>"
 	},
 	"icons" : {
 		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",

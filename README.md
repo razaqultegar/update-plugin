@@ -1,2 +1,2 @@
 # update-plugin
-📦 Update Plugin, Sample Demo, and Promo for Super Toko Core
+⛷️ Update Plugin, Sample Demo, and Promo for Super Toko Core

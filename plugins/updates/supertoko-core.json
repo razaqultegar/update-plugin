@@ -1,0 +1,21 @@
+{
+	"name": "Super Toko Core",
+	"version": "1.0.0",
+	"download_url": "#",
+	"homepage": "https://razaqultegar.com/",
+	"requires": "5.0",
+	"tested": "5.0",
+	"last_updated": "2020-02-01 00:00:00",
+	"upgrade_notice": "Update available for Super Toko Core.",
+	"author": "razaqultegar",
+	"author_homepage": "https://razaqultegar.com/",
+	"sections": {
+		"description": "A plugin required to activate the functionality in the Super Toko themes.",
+		"installation": "Installation instructions.",
+		"changelog": "<h4>1.0 â€“ 2019-12-12</h4><ul><li>Initial release.</li></ul>"
+	},
+	"rating": 100,
+	"num_ratings": 1000,
+	"downloaded": 3000,
+	"active_installs": 2000
+}

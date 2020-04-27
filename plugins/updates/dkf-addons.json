@@ -1,0 +1,29 @@
+{
+	"name": "DKF Addons",
+	"version": "1.0.0",
+	"download_url": "https://github.com/razaqultegar/update-plugin/blob/master/plugins/dkf-addons.zip",
+	"homepage": "https://limbodigital.id/",
+	"requires": "5.0",
+	"tested": "5.0",
+	"last_updated": "2020-27-04 20:56:23",
+	"upgrade_notice": "Update available for Super Toko Core.",
+	"author": "Limbo Digital",
+	"author_homepage": "https://limbodigital.id/",
+	"sections": {
+		"description": "A plugin required to activate the functionality in the DKF themes.",
+		"installation": "Installation instructions.",
+		"changelog": "<h4>1.0.0 – 2020-04-27</h4><ul><li>Initial release.</li></ul>"
+	},
+	"icons" : {
+		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
+		"2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+    	},
+	"banners": {
+		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+	},
+	"rating": 100,
+	"num_ratings": 1000,
+	"downloaded": 3000,
+	"active_installs": 2000
+}
